@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="XiaominExcel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XiaominExcel_jar</output-path>
+    <root id="archive" name="XiaominExcel.jar">
+      <element id="module-output" name="XiaominExcel" />
+    </root>
+  </artifact>
+</component>
